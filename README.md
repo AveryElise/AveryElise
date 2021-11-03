@@ -6,9 +6,9 @@
 
 * NLP
 * Automation
-* All things Data
+* All Things Data
 
-My Languages and Tools:
+### My Languages and Tools:
 
 * Python <img width=26px src="/images/python.svg" alt="Python"/>
 * Pandas <img width=26px src="/images/pandas.svg" alt="Pandas"/>
@@ -20,4 +20,5 @@ My Languages and Tools:
 * SQL Developer <img width=26px src="/images/sqldeveloper.png" alt="MySQL"/>
 
 Connect with Me!
-<img width=26px src="/images/linkedin2.png" href="www.linkedin.com/in/avery-headley" alt="linkedin"/>
+
+<a href="www.linkedin.com/in/avery-headley"><img width=26px src="/images/linkedin2.png" alt="linkedin"/></a>
