@@ -8,7 +8,7 @@
 * Automation
 * All Things Data
 
-### My Languages and Tools:
+#### My Languages and Tools:
 
 * Python <img width=26px src="/images/python.svg" alt="Python"/>
 * Pandas <img width=26px src="/images/pandas.svg" alt="Pandas"/>
@@ -19,6 +19,6 @@
 * MySQL <img width=26px src="/images/mysql.png" alt="MySQL"/>
 * SQL Developer <img width=26px src="/images/sqldeveloper.png" alt="MySQL"/>
 
-Connect with Me!
+#### Connect with Me!
 
-<a href="www.linkedin.com/in/avery-headley"><img width=26px src="/images/linkedin2.png" alt="linkedin"/></a>
+[![](/images/smalllinkedin.png)](www.linkedin.com/in/avery-headley)
