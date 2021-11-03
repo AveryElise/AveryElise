@@ -21,4 +21,4 @@
 
 #### Connect with Me!
 
-[![](/images/linkedin.svg)](www.linkedin.com/in/avery-headley)
+[**Linkedin**](www.linkedin.com/in/avery-headley)
