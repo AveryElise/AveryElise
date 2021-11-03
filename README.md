@@ -19,4 +19,5 @@ My Languages and Tools:
 * MySQL <img width=26px src="/images/mysql.png" alt="MySQL"/>
 * SQL Developer <img width=26px src="/images/sqldeveloper.png" alt="MySQL"/>
 
-Connect with Me! <img width=26px src="/images/linkedin.svg" href="www.linkedin.com/in/avery-headley" alt="linkedin"/>
+Connect with Me!
+<img width=26px src="/images/linkedin2.png" href="www.linkedin.com/in/avery-headley" alt="linkedin"/>
