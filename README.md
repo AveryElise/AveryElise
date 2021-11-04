@@ -18,5 +18,5 @@
 * MySQL <img width=26px src="/images/mysql.png" alt="MySQL"/>
 * SQL Developer <img width=26px src="/images/sqldeveloper.png" alt="MySQL"/>
 
-#### Connect with Me! [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/avery-headley/) [**Linkedin**](https://www.linkedin.com/in/avery-headley/)
+### Let's Connect! [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/avery-headley/)
 
