@@ -21,4 +21,4 @@
 
 #### Connect with Me!
 
-www.linkedin.com/in/avery-headley
+linkedin.com/in/avery-headley
