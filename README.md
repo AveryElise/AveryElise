@@ -1,4 +1,4 @@
-### Hi, I'm Avery. 👋
+### Hi, I'm Avery.
 
 ## I'm a full-time data professional committed to life long learning.
 
